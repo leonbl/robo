@@ -10,8 +10,8 @@
 #include <analogWrite.h>
 
 // Replace with your network credentials
-const char *ssid = "Trscaki";
-const char *password = "manjablazic";
+const char *ssid = "";
+const char *password = "";
 
 uint8_t speed = 75;
 
